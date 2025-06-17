@@ -1,3 +1,3 @@
 # my_newrepo
 this is my first repository
-<br>hell From hithub
+<br>hell From github
